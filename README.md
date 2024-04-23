@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kiyo</h1>
-<h3 align="center">A passionate full stack developer</h3>
+
+
+
+![Proyecto nuevo (3)](https://github.com/kiyoLite/KiyoLite/assets/155318310/d2d51426-6ab4-42c4-b84f-c2371335ad41)
 
 - 🌱 I’m currently learning **Java**
 
