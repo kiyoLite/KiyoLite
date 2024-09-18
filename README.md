@@ -4,7 +4,7 @@
 
 ![Banner ](https://github.com/kiyoLite/KiyoLite/assets/155318310/d2d51426-6ab4-42c4-b84f-c2371335ad41) 
 
-- 🌱 I’m currently learning **Java**
+
 ## Current Goals 🎯
 
 - [ ] **Obtain the CEFR B1 certificate**
